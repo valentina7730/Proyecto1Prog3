@@ -100,6 +100,8 @@
     "Application.FactorialDeUnNumero.executor": "Debug",
     "Application.NumeroInvertido.executor": "Debug",
     "Gradle.Proyecto1Program3 [:NumeroPrimo.main()].executor": "Run",
+    "Gradle.Proyecto1Program3 [:Seccion_2.CajaRegistradora.main()].executor": "Run",
+    "Gradle.Proyecto1Program3 [:Seccion_2.CalculoImpuestos.main()].executor": "Run",
     "Gradle.Proyecto1Program3 [:Seccion_2.CalculoNotasFinales.main()].executor": "Run",
     "Gradle.Proyecto1Program3 [:org.ciaf.EjerciciosParte1.ContadorVocales.main()].executor": "Run",
     "Gradle.Proyecto1Program3 [:org.ciaf.EjerciciosParte1.FactorialDeUnNumero.main()].executor": "Run",
@@ -108,14 +110,14 @@
     "Gradle.Proyecto1Program3 [:org.ciaf.EjerciciosParte1.SumaDeNumerosPares.main()].executor": "Run",
     "Gradle.Proyecto1Program3 [:org.example.Main.main()].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "valentina",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "/Users/valentinaquinterogodoy/IdeaProjects/programacion3/Proyecto1Program3/src/main/java/org/example/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CalculoNotasFinales">
-    <configuration name="CalculoNotasFinales" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Seccion_2.CalculoNotasFinales" />
+  <component name="RunManager" selected="Application.CajaRegistradora">
+    <configuration name="CajaRegistradora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Seccion_2.CajaRegistradora" />
       <module name="Proyecto1Program3.main" />
       <extension name="coverage">
         <pattern>
@@ -127,12 +129,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContadorVocales" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.ciaf.EjerciciosParte1.ContadorVocales" />
+    <configuration name="CalculoImpuestos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Seccion_2.CalculoImpuestos" />
       <module name="Proyecto1Program3.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.ciaf.EjerciciosParte1.*" />
+          <option name="PATTERN" value="Seccion_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculoNotasFinales" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Seccion_2.CalculoNotasFinales" />
+      <module name="Proyecto1Program3.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Seccion_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,20 +181,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumeroPrimo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumeroPrimo" />
-      <module name="Proyecto1Program3.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CajaRegistradora" />
+        <item itemvalue="Application.CalculoImpuestos" />
         <item itemvalue="Application.CalculoNotasFinales" />
         <item itemvalue="Application.FactorialDeUnNumero" />
         <item itemvalue="Application.NumeroInvertido" />
-        <item itemvalue="Application.ContadorVocales" />
-        <item itemvalue="Application.NumeroPrimo (1)" />
       </list>
     </recent_temporary>
   </component>
