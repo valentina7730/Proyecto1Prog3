@@ -95,24 +95,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.FactorialDeUnNumero.executor": "Debug",
-    "Application.NumeroInvertido.executor": "Debug",
-    "Gradle.Proyecto1Program3 [:NumeroPrimo.main()].executor": "Run",
-    "Gradle.Proyecto1Program3 [:org.ciaf.EjerciciosParte1.ContadorVocales.main()].executor": "Run",
-    "Gradle.Proyecto1Program3 [:org.ciaf.EjerciciosParte1.FactorialDeUnNumero.main()].executor": "Run",
-    "Gradle.Proyecto1Program3 [:org.ciaf.EjerciciosParte1.NumeroInvertido.main()].executor": "Run",
-    "Gradle.Proyecto1Program3 [:org.ciaf.EjerciciosParte1.NumeroPrimo.main()].executor": "Run",
-    "Gradle.Proyecto1Program3 [:org.ciaf.EjerciciosParte1.SumaDeNumerosPares.main()].executor": "Run",
-    "Gradle.Proyecto1Program3 [:org.example.Main.main()].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "/Users/valentinaquinterogodoy/IdeaProjects/programacion3/Proyecto1Program3/src/main/java/org/example/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.FactorialDeUnNumero.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.NumeroInvertido.executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.Proyecto1Program3 [:NumeroPrimo.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Proyecto1Program3 [:org.ciaf.EjerciciosParte1.ContadorVocales.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Proyecto1Program3 [:org.ciaf.EjerciciosParte1.FactorialDeUnNumero.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Proyecto1Program3 [:org.ciaf.EjerciciosParte1.NumeroInvertido.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Proyecto1Program3 [:org.ciaf.EjerciciosParte1.NumeroPrimo.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Proyecto1Program3 [:org.ciaf.EjerciciosParte1.SumaDeNumerosPares.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Proyecto1Program3 [:org.example.Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/valentinaquinterogodoy/IdeaProjects/programacion3/Proyecto1Program3/src/main/java/org/example/Main.java&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.FactorialDeUnNumero">
+}</component>
+  <component name="RunManager" selected="Application.CalculoNotasFinales">
+    <configuration name="CalculoNotasFinales" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Seccion_2.CalculoNotasFinales" />
+      <module name="Proyecto1Program3.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Seccion_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ContadorVocales" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.ciaf.EjerciciosParte1.ContadorVocales" />
       <module name="Proyecto1Program3.main" />
@@ -159,26 +172,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumeroPrimo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.ciaf.EjerciciosParte1.NumeroPrimo" />
-      <module name="Proyecto1Program3.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.ciaf.EjerciciosParte1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CalculoNotasFinales" />
         <item itemvalue="Application.FactorialDeUnNumero" />
         <item itemvalue="Application.NumeroInvertido" />
         <item itemvalue="Application.ContadorVocales" />
         <item itemvalue="Application.NumeroPrimo (1)" />
-        <item itemvalue="Application.NumeroPrimo" />
       </list>
     </recent_temporary>
   </component>
